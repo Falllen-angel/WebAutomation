@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WebAutomation/static/css/main.f7420d40.css",
+    "main.js": "/WebAutomation/static/js/main.23d0af14.js",
+    "static/media/main.mp4": "/WebAutomation/static/media/main.e5f8641e0057f4aedcae.mp4",
+    "static/media/Logo.png": "/WebAutomation/static/media/Logo.1c2f357434f2496ef515.png",
+    "static/media/main.png": "/WebAutomation/static/media/main.0dde1814fad77bcebede.png",
+    "index.html": "/WebAutomation/index.html",
+    "main.f7420d40.css.map": "/WebAutomation/static/css/main.f7420d40.css.map",
+    "main.23d0af14.js.map": "/WebAutomation/static/js/main.23d0af14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7420d40.css",
+    "static/js/main.23d0af14.js"
+  ]
+}
